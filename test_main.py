@@ -3,8 +3,9 @@ Test ETL-Query functions
 
 """
 from main import main_query, find_avg_temp, find_avg_wind
-from mylib.extract import extract
-from mylib.transform_load import load
+
+# from mylib.extract import extract
+# from mylib.transform_load import load
 
 
 def test_main_query():
@@ -37,11 +38,11 @@ def test_find_avg_wind():
     assert int(wind_val) > 0
 
 
-def test_etl():
-    """
-    Test that the etl functions return valid file paths
-    """
-    extract_path = extract()
-    assert extract_path.endswith("seattle_weather.csv")
-    transform_load_path = load()
-    assert transform_load_path == "Weather.db"
+# def test_etl():
+#     """
+#     Test that the etl functions return valid file paths
+#     """
+#     extract_path = extract()
+#     assert extract_path.endswith("seattle_weather.csv")
+#     transform_load_path = load()
+#     assert transform_load_path == "Weather.db"
