@@ -1,5 +1,6 @@
 # SQLite ETL-Query
 [![CI](https://github.com/nogibjj/sqlite-lab-njs35/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/sqlite-lab-njs35/actions/workflows/cicd.yml)
+
 The Seattle weather dataset used for this project can be found [here.](https://github.com/vega/vega/blob/main/docs/data/seattle-weather.csv)
 
 ### Project Overview
