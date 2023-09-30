@@ -17,6 +17,9 @@ The Seattle weather dataset used for this project can be found [here.](https://g
 ![Alt text](img/snowy_temp_query.png)
 ---
 
+#### Query Example with CRUD Operation Progress Printout
+![Alt text](img/crud.png)
+
 #### Design Diagram
 ![Alt text](img/flowchart.png)
 
