@@ -21,4 +21,7 @@ The Seattle weather dataset used for this project can be found [here.](https://g
 ![Alt text](img/flowchart.png)
 
 #### Test Results
-![Alt text](image.png)
+![Alt text](img/test_results.png)
+
+#### Matrix Build Results
+![Alt text](img/matrix_results.png)
