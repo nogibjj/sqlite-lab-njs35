@@ -3,7 +3,6 @@ Transforms and Loads data into the local SQLite3 database
 """
 import sqlite3
 import csv
-import os
 
 
 def transform_csv(csv_file):

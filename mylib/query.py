@@ -2,7 +2,6 @@
 
 import sqlite3
 import pandas as pd
-import fire
 
 
 def get_df_and_print_head(query, conn, head_size=10):
@@ -18,6 +17,6 @@ def query_db(query="SELECT * FROM seattle_weather LIMIT 6"):
     conn = sqlite3.connect("Weather.db")
     df = get_df_and_print_head(query, conn, head_size=10)
     conn.close()
-    return "Success"
+    return df
 
 
