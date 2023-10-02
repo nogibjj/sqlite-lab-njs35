@@ -9,20 +9,20 @@ The Seattle weather dataset used for this project can be found [here.](https://g
 - ``Load`` data into a SQLite database
 - ``Query`` SQLite database with a robust CLI
 
-#### CRUD Operations
+### CRUD Operations
 ``Create``
 ![Alt text](img/create_crud.png)
-
+---
 ``Read``
 ![Alt text](img/read_crud.png)
-
+---
 ``Update``
 ![Alt text](img/update_crud.png)
-
+---
 ``Delete``
 ![Alt text](img/delete_crud.png)
 
-#### Query Examples with the CLI
+### Query Examples with the CLI
 ---
 ![Alt text](img/wind_sun_query.png)
 ---
