@@ -23,7 +23,7 @@ The Seattle weather dataset used for this project can be found [here.](https://g
 ![Alt text](img/delete_crud.png)
 ---
 
-### Query Examples with the CLI
+## Query Examples with the CLI
 ---
 ![Alt text](img/wind_sun_query.png)
 ---
@@ -32,14 +32,14 @@ The Seattle weather dataset used for this project can be found [here.](https://g
 ![Alt text](img/snowy_temp_query.png)
 ---
 
-#### Query Example with CRUD Operation Progress Printout
+### Query Example with CRUD Operation Progress Printout
 ![Alt text](img/crud.png)
 
-#### Design Diagram
+## Design Diagram
 ![Alt text](img/flowchart.png)
 
-#### Test Results
+## Test Results
 ![Alt text](img/test_results.png)
 
-#### Matrix Build Results
+## Matrix Build Results
 ![Alt text](img/matrix_results.png)
