@@ -21,6 +21,7 @@ The Seattle weather dataset used for this project can be found [here.](https://g
 ---
 ``Delete``
 ![Alt text](img/delete_crud.png)
+---
 
 ### Query Examples with the CLI
 ---
